@@ -1,37 +1,56 @@
-
-<?php
-function get_rows() {
-$i = 0;
-$file=fopen("obs_list.txt",'r');
-while($line = fgets($file)){//while we can still read the file
-	$i++;
-	$line=trim($line);//remove the line endings and extra white-spaces at start and end
-	list($title,$author,$started,$ended) = explode('|',$line);//you get an array of 4 per line, first item is author, etc...
-	echo "<tr><td id='title-$i'>$title</td><td id='author-$i'>$author</td><td id='started-$i'>$started</td><td id='ended-$i'>$ended</td></tr>\n";//use the \n to clean up the source a code a bit to make it readable
-}
-return true;
-}
-?>
-
-<!DOCTYPE html>
 <html>
-    <head>
-        <title>Test</title>
-    </head>
-    <body>
-        <p>Also a test</p>
-    
-    <table>
-    <tr>
-        <th>GRB name</th>
-        <th>Observatory</th>
-        <th>Started</th>
-        <th>Finished</th>
-    </tr>
-<?php get_rows(); ?>
-</table>
+  <body onload=loadTable()>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+      function formatTable(content){
+	  var dataArr = content.split("\n");
+	  
+	  //for each line in array
+	  $.each(dataArr,function(){
+              if (this != "") {
+		  
+		  //split line and create row
+		  var row = new String("");
+		  valArr = this.split(",");
+		  row += "<tr>"
+		  
+		  $.each(valArr, function(){
+                      row += "<td>" + this +"</td>"
+		  });     
+	      
+		  row += "</tr>"
+		  
+		  //Add row to table
+		  $('tbody').append(row);
+	      
+              }
+	  })
+      }
+
+      function loadTable()
+      {
+	  var content;
+	  //Parse CSV File
+	  //split on new line
+	  fetch("pippo.csv") //here you would put the url of the file (if it's in the same directory just the name should suffice
+	      .then((response) => response.text())
+	      .then((data) => formatTable(data));
+//	      .then((data) => console.log(data))
+      }
 	    
-	    <p>After table</p>
-     </body>
-   
+      </script>
+    <table class="table">
+    <thead>
+        <tr>
+            <th>a</th>
+            <th>b</th>
+            <th>c</th>
+            <th>d</th>
+        </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+</table>
+  </body>
 </html>
