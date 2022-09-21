@@ -32,7 +32,7 @@
 	  var content;
 	  //Parse CSV File
 	  //split on new line
-	  fetch("pippo.csv") //here you would put the url of the file (if it's in the same directory just the name should suffice
+	  fetch("obstable.csv") //here you would put the url of the file (if it's in the same directory just the name should suffice
 	      .then((response) => response.text())
 	      .then((data) => formatTable(data));
 //	      .then((data) => console.log(data))
