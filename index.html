@@ -1,28 +1,30 @@
 <html>
+<link rel="stylesheet" href="./css/w3.css">
+
   <body onload=loadTable()>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script>
       function formatTable(content){
 	  var dataArr = content.split("\n");
-	  
+
 	  //for each line in array
 	  $.each(dataArr,function(){
               if (this != "") {
-		  
+
 		  //split line and create row
 		  var row = new String("");
 		  valArr = this.split(",");
 		  row += "<tr>"
-		  
+
 		  $.each(valArr, function(){
                       row += "<td>" + this +"</td>"
-		  });     
-	      
+		  });
+
 		  row += "</tr>"
-		  
+
 		  //Add row to table
 		  $('tbody').append(row);
-	      
+
               }
 	  })
       }
@@ -37,19 +39,20 @@
 	      .then((data) => formatTable(data));
 //	      .then((data) => console.log(data))
       }
-	    
+
       </script>
-    <table class="table">
+    <div class="w3-container, w3-responsive">
+    <table class="w3-table-all">
     <thead>
         <tr>
             <th> GRB ID </th>
-            <th> Triggering instrument</th>
-		<th> Alert time </th>
-            <th> GRB RA</th>
-            <th> GRB Dec</th>
+            <th class="w3-center"> Triggering instrument</th>
+		<th class="w3-center"> Alert time </th>
+            <th class="w3-center"> GRB RA (J2000)</th>
+            <th class="w3-center"> GRB Dec (J2000)</th>
             <th> HESS window</th>
-            <th> Obs mode</th>		
-            <th> Reaction</th>
+            <th class="w3-center"> Obs mode</th>
+            <th class="w3-center"> Reaction</th>
             <th> Contact</th>
         </tr>
     </thead>
@@ -57,5 +60,6 @@
 
     </tbody>
 </table>
+</div>
   </body>
 </html>
