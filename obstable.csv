@@ -1,3 +1,4 @@
+713966581,Fermi-GBM,2023-08-17<br>12:02:56 UTC,321.09 deg<br> (21h24m21.6s),10.96 deg<br> (+10d57'36''),2023-08-17<br>19:15:11 UTC (T0 + 7.2h),2023-08-18<br>01:55:49 UTC (T0 + 13.88h),Tiled,Manual,
 GRB230814A,Fermi-GBM,2023-08-14<br>18:54:56 UTC,286.99 deg<br> (19h07m57.6s),-12.64 deg<br> (-12d38'24''),2023-08-14<br>19:53:16 UTC (T0 + 0.97h),2023-08-15<br>00:39:22 UTC (T0 + 5.74h),Tiled,Manual, Mathieu de Bony
 GRB230812A,Fermi-GBM,2023-08-12<br>09:28:32 UTC,293.85 deg<br> (19h35m24s),-31.39 deg<br> (-31d23'24''),Cancelled,,Tiled,Manual, Mathieu de Bony
 GRB230728A,SWIFT-BAT,2023-07-28<br>02:50:03 UTC,343.5389 deg<br> (22h54m09.336s),28.1508 deg<br> (+28d09'02.88''),Cancelled,,Pointed,Automatic, Mathieu de Bony
