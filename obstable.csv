@@ -1,4 +1,4 @@
-720715295,Fermi-GBM,2023-11-03<br>14:41:30 UTC,12.37 deg<br> (00h49m28.8s),-55.97 deg<br> (-55d58'12''),2023-11-03<br>18:18:43 UTC (T0 + 3.62h),2023-11-03<br>22:40:22 UTC (T0 + 7.98h),Tiled,Manual,
+GRB231103A,Fermi-GBM,2023-11-03<br>14:41:30 UTC,12.37 deg<br> (00h49m28.8s),-55.97 deg<br> (-55d58'12''),Cancelled,,Tiled,Manual,Mathieu de Bony
 GRB230911C,SWIFT-BAT,2023-09-11<br>08:47:25 UTC,226.7824 deg<br> (15h07m07.776s),-41.3339 deg<br> (-41d20'02.04''),2023-09-11<br>17:54:47 UTC (T0 + 9.12h),2023-09-11<br>19:18:06 UTC (T0 + 10.51h),Pointed,Manual,Halim Ashkar
 GRB230903A,SWIFT-BAT,2023-09-03<br>17:22:56 UTC,9.9261 deg<br> (00h39m42.264s),-40.9238 deg<br> (-40d55'25.68''),2023-09-03<br>20:05:36 UTC (T0 + 2.71h),2023-09-03<br>20:26:08 UTC (T0 + 3.05h),Pointed,Manual,Mathieu de Bony
 GRB230817A,Fermi-GBM,2023-08-17<br>12:02:56 UTC,321.09 deg<br> (21h24m21.6s),10.96 deg<br> (+10d57'36''),2023-08-17<br>19:15:11 UTC (T0 + 7.2h),2023-08-18<br>01:55:49 UTC (T0 + 13.88h),Tiled,Manual,Mathieu de Bony
