@@ -1,5 +1,5 @@
-1235109,SWIFT-BAT,2024-06-06<br>03:33:46 UTC,12.1254 deg<br> (00h48m30.096s),-19.7472 deg<br> (-19d44'49.92''),2024-06-06<br>03:34:31 UTC (T0 + 0.01h),2024-06-06<br>04:18:58 UTC (T0 + 0.75h),Pointed,Automatic,
-GRB 240605C,Fermi-GBM,2024-06-05<br>14:34:38 UTC,230.82 deg<br> (15h23m16.8s),-73.68 deg<br> (-73d40'48''),Cancelled ,,Tiled,Manual,Mathieu de Bony
+GRB 240606A,SWIFT-BAT,2024-06-06<br>03:33:46 UTC,12.1254 deg<br> (00h48m30.096s),-19.7472 deg<br> (-19d44'49.92''),2024-06-06<br>03:34:31 UTC (T0 + 0.01h),2024-06-06<br>04:18:58 UTC (T0 + 0.75h),Pointed,Automatic,Mathieu de Bony
+GRB 240605C,Fermi-GBM,2024-06-05<br>14:34:38 UTC,230.82 deg<br> (15h23m16.8s),-73.68 deg<br> (-73d40'48''),Cancelled (not a GRB),,Tiled,Manual,Mathieu de Bony
 GRB 240527B,Fermi-GBM,2024-05-27<br>14:03:51 UTC,127.64 deg<br> (08h30m33.6s),-12.71 deg<br> (-12d42'36''),2024-05-27<br>17:26:31 UTC (T0 + 3.38h),2024-05-27<br>19:10:49 UTC (T0 + 5.12h),Tiled,Manual,Mathieu de Bony
 GRB 240513A,Fermi-LAT,2024-05-13<br>07:22:02 UTC,163.4 deg<br> (10h53m36s),-27.5 deg<br> (-27d30'00''),Cancelled (bad weather),,Pointed,Manual,Halim Ashkar
 GRB 240511A,SWIFT-BAT,2024-05-11<br>18:06:53 UTC,336.6645 deg<br> (22h26m39.48s),8.5135 deg<br> (+08d30'48.6''),Cancelled (bad weather),,Pointed,Manual,Halim Ashkar
