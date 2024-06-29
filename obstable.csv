@@ -1,5 +1,4 @@
-741372837,Fermi-GBM,2024-06-29<br>16:53:52 UTC,308.26 deg<br> (20h33m02.4s),-37.17 deg<br> (-37d10'12''),2024-06-29<br>20:18:51 UTC (T0 + 3.42h),2024-06-29<br>23:56:19 UTC (T0 + 7.04h),Tiled,Manual,
-GRB 240629A,Fermi-GBM,2024-06-29<br>16:53:52 UTC,310.81 deg<br> (20h43m14.4s),-36.52 deg<br> (-36d31'12''),2024-06-29<br>20:29:33 UTC (T0 + 3.59h),2024-06-29<br>23:56:00 UTC (T0 + 7.04h),Cancelled,,Tiled,Manual,Dagmar Rozendal
+GRB 240629A,Fermi-GBM,2024-06-29<br>16:53:52 UTC,310.81 deg<br> (20h43m14.4s),-36.52 deg<br> (-36d31'12''),Cancelled,,Tiled,Manual,Dagmar Rozendal
 GRB 240612AB,Fermi-GBM,2024-06-12<br>12:16:17 UTC,320.63 deg<br> (21h22m31.1s),6.28 deg<br> (+06d16'48''),2024-06-12<br>23:00:00 UTC (T0 + 11.18h),2024-06-13<br>04:30:00 UTC (T0 + 16.05h),Tiled,Manual,Bernardo Cornejo
 GRB 240610A,Fermi-GBM,2024-06-10<br>00:03:18 UTC,293.85 deg<br> (19h35m24s),8.69 deg<br> (+08d41'24''),2024-06-10<br>00:21:09 UTC (T0 + 0.3h),2024-06-10<br>04:20:13 UTC (T0 + 4.28h),Tiled,Manual,Bernardo Cornejo
 GRB 240606A,SWIFT-BAT,2024-06-06<br>03:33:46 UTC,12.1254 deg<br> (00h48m30.096s),-19.7472 deg<br> (-19d44'49.92''),2024-06-06<br>03:34:31 UTC (T0 + 0.01h),2024-06-06<br>04:18:58 UTC (T0 + 0.75h),Pointed,Automatic,Mathieu de Bony
