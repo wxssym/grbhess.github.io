@@ -1,4 +1,4 @@
-GRB 240713A,SVOM,2024-07-13<br>02:02:40 UTC,352.59 deg<br> (23h30m21.6s),1.88 deg<br> (-1d52m48s),2024-07-14<br>00:23:00 UTC (T0 + 22.5h),2024-07-14<br>04:24:00 UTC (T0 + 26h),Pointed,Manual,Fabian Schussler
+GRB 240713A,SVOM,2024-07-13<br>02:02:40 UTC,352.59 deg<br> (23h30m21.6s),1.88 deg<br> (-1d52m48s),2024-07-14<br>00:35:00 UTC (T0 + 22.5h),2024-07-14<br>04:30:00 UTC (T0 + 26h),Pointed,Manual,Fabian Schussler
 742317942,Fermi-GBM,2024-07-10<br>15:25:37 UTC,239.71 deg<br> (15h58m50.4s),-13.71 deg<br> (-13d42'36''),2024-07-10<br>17:33:52 UTC (T0 + 2.14h),2024-07-10<br>23:47:32 UTC (T0 + 8.37h),Tiled,Manual, Fabian Schussler
 GRB 240705A (retracted),Fermi-GBM,2024-07-05<br>22:24:12 UTC,347.1 deg<br> (23h08m24s),-75.71 deg<br> (-75d42'36''),2024-07-05<br>23:10:01 UTC (T0 + 0.76h),2024-07-06<br>04:25:13 UTC (T0 + 6.02h),Tiled,Manual,Dagmar Rozendal
 GRB 240629A,Fermi-GBM,2024-06-29<br>16:53:52 UTC,310.81 deg<br> (20h43m14.4s),-36.52 deg<br> (-36d31'12''),Cancelled,,Tiled,Manual,Dagmar Rozendal
