@@ -1,3 +1,4 @@
+GRB 240727A,SWIFT-XRT,2024-07-27<br>03:48:00 UTC,236.43742<br> (15h45m44.98s),8.62001 deg<br> (+08d37'12.0''),2024-07-27<br>17:40:00 UTC (T0 + 14h),2024-07-27<br>21:44:00 UTC (T0 + 17h),Pointed,Manual,Bernardo Cornejo
 1244778,SWIFT-BAT,2024-07-25<br>02:37:36 UTC,299.054 deg<br> (19h56m12.96s),-64.6667 deg<br> (-64d40'00.12''),Cancelled (Trigger not a GRB from SWIFT),,Pointed,Manual,Bernardo Cornejo
 GRB 240713A,SVOM,2024-07-13<br>02:02:40 UTC,352.59 deg<br> (23h30m21.6s),1.88 deg<br> (-1d52m48s),2024-07-14<br>00:35:00 UTC (T0 + 22.5h),2024-07-14<br>04:30:00 UTC (T0 + 26h),Pointed,Manual,Fabian Schussler
 742317942,Fermi-GBM,2024-07-10<br>15:25:37 UTC,239.71 deg<br> (15h58m50.4s),-13.71 deg<br> (-13d42'36''),2024-07-10<br>17:33:52 UTC (T0 + 2.14h),2024-07-10<br>23:47:32 UTC (T0 + 8.37h),Tiled,Manual, Fabian Schussler
