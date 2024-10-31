@@ -1,5 +1,4 @@
-752006065,Fermi-GBM,2024-10-30<br>18:34:20 UTC,49.33 deg<br> (03h17m19.2s),31.56 deg<br> (+31d33'36''),2024-10-30<br>21:53:14 UTC (T0 + 3.31h),2024-10-31<br>01:14:16 UTC (T0 + 6.67h),Tiled,Manual,
-1263840,SWIFT-BAT,2024-10-30<br>18:34:20 UTC,50.7882 deg<br> (03h23m09.168s),34.4325 deg<br> (+34d25'57''),2024-10-30<br>22:33:05 UTC (T0 + 3.98h),2024-10-31<br>00:46:55 UTC (T0 + 6.21h),Pointed,Manual,
+GRB 241030B,SWIFT-BAT,2024-10-30<br>18:34:20 UTC,50.7882 deg<br> (03h23m09.168s),34.4325 deg<br> (+34d25'57''),2024-10-30<br>22:33:05 UTC (T0 + 3.98h),2024-10-31<br>00:46:55 UTC (T0 + 6.21h),Pointed,Manual,Mathieu de Bony
 GRB 241029A,SVOM-Eclair,2024-10-29<br>02:19:53 UTC,325.33 deg<br> (21h41m18.48s),5.090 deg<br> (5d5'9.6''),2024-10-29<br>19:16:27 UTC (T0 + 16.9h),2024-10-09<br>20:43:05 UTC (T0 + 18.4h),Tiled,Manual,Mathieu de Bony
 GRB 241008A,Fermi-GBM,2024-10-08<br>22:00:04 UTC,112.87 deg<br> (07h31m28.8s),-14.48 deg<br> (-14d28'48''),2024-10-09<br>00:58:22 UTC (T0 + 2.9h),2024-10-09<br>03:25:40 UTC (T0 + 5.4h),Tiled,Manual,Bernardo Cornejo
 GRB 241006A,SWIFT-BAT,2024-10-06<br>21:51:58 UTC,304.7942 deg<br> (20h19m10.608s),-40.7959 deg<br> (-40d47'45.24''),Cancelled (bad weather),,Pointed,Automatic,Bernardo Cornejo
