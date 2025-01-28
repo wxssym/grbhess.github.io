@@ -1,5 +1,5 @@
 GRB 250127B,Fermi-GBM,2025-01-27<br>15:14:38 UTC,126.85 deg<br> (08h27m24s),-14.17 deg<br> (-14d10'12''),Cancelled (preference for GRB 250127A),,Tiled,Manual, Santiago Pita
-GRB 250127A,SVOM,2025-01-27<br>05:04:46 UTC,169.59 deg<br>(11h18m21.36s),3.35 deg<br> 3d20m45.6s,2025-01-27<br>22:03:00 (T0 +17h),2025-01-28<br>03:06:00 (T0 + 22h),Pointed,Manual, Santiago Pita
+GRB 250127A,SVOM,2025-01-27<br>05:04:46 UTC,169.59 deg<br>(11h18m21.36s),3.35 deg<br> 3d20m45.6s,Cancelled (Bad weather),,Pointed,Manual, Santiago Pita
 GRB 250108B,SWIFT-BAT,2025-01-08<br>10:23:06 UTC,201.2974 deg<br> (13h25m11.376s),25.6127 deg<br> (+25d36'45.72''),Cancelled(short observation time),,Pointed,Manual,Bernardo Cornejo
 GRB 250103B,SWIFT-BAT,2025-01-03<br>15:44:17 UTC,54.6515 deg<br> (03h38m36.36s),-33.7719 deg<br> (-33d46'18.84''),Cancelled (Bad weather),,Pointed,Manual,Bernardo Cornejo
 GRB 250101A,SWIFT-BAT,2025-01-01<br>13:22:50 UTC,37.0612 deg<br> (02h28m14.688s),19.154 deg<br> (+19d09'14.4''),2025-01-01<br>19:08:56 UTC (T0 + 5.65h),2025-01-01<br>21:07:12 UTC (T0 + 8.05h),Pointed,Manual,Bernardo Cornejo
