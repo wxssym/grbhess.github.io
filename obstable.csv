@@ -1,4 +1,5 @@
-1290305,SWIFT-BAT,2025-02-21<br>03:34:37 UTC,59.4766 deg<br> (03h57m54.384s),-15.1387 deg<br> (-15d08'19.32''),2025-02-21<br>18:39:55 UTC (T0 + 15.09h),2025-02-21<br>20:56:16 UTC (T0 + 17.36h),Pointed,Manual,
+EP250223a,Einstein Probe, 2025-02-23<br>15:04:35 UTC, 98.272 deg<br> (6h33m5.328s), -22.444 deg<br> (-22d26m39.12s),  , , Pointed,Manual, Ilja Jaroschewski
+1290305,SWIFT-BAT,2025-02-21<br>03:34:37 UTC,59.4766 deg<br> (03h57m54.384s),-15.1387 deg<br> (-15d08'19.32''),2025-02-21<br>18:39:55 UTC (T0 + 15.09h),2025-02-21<br>20:56:16 UTC (T0 + 17.36h),Pointed,Manual, Ilja Jaroschewski
 GRB 250206A,Fermi-GBM,2025-02-06<br>19:51:31 UTC,213.41 deg<br> (14h13m38.4s),-64.2 deg<br> (-64d12'00''),Cancelled (Bad weather),,Tiled,Manual, Santiago Pita
 GRB 250201A,Fermi-GBM,2025-02-01<br>09:59:46 UTC,115.07 deg<br> (07h40m16.8s),-52.51 deg<br> (-52d30'36''),2025-02-01<br>20:05:00 UTC (T0 + 10.09h),2025-02-01<br>23:23:00 UTC (T0 + 13.39h),Tiled,Manual, Santiago Pita
 GRB 250129A,SWIFT-BAT,2025-01-29<br>04:45:09 UTC,198.6894 deg<br> (13h14m45.456s),5.0387 deg<br> (+05d02'19.32''),Cancelled (high redshift),,Pointed,Manual, Santiago Pita
