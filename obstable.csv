@@ -1,4 +1,4 @@
-GRB 250506A,Fermi-GBM,2025-05-06<br>02:23:22 UTC,244.76 deg<br> (16h19m02.4s),26.64 deg<br> (+26d38'24''),Cancelled (small visibility window + small zenith angle),Pointed,Automatic, Pierre Pichard
+GRB 250506A,Fermi-GBM,2025-05-06<br>02:23:22 UTC,244.76 deg<br> (16h19m02.4s),26.64 deg<br> (+26d38'24''),Cancelled (small visibility window + small zenith angle),,Pointed,Automatic, Pierre Pichard
 GRB 250504A,SWIFT-BAT,2025-05-04<br>23:25:57 UTC,269.6123 deg<br> (17h58m26.952s),-40.3494 deg<br> (-40d20'57.84''),2025-05-04<br>23:26:30 UTC (T0 + 0.01h),2025-05-05<br>04:06:28 UTC (T0 + 4.67h),Pointed,Automatic, Pierre Pichard
 GRB 250502A,SVOM-ECLAIR,2025-05-02<br>08:46:27 UTC,206.479 deg<br> (13h45m54.84s),-10.643 deg<br> (-10d38'34.49''),2025-05-02<br>17:57:55 UTC (T0 + 9.18h),2025-05-03<br>01:16:00 UTC (7.31h),Pointed,Manual, Pierre Pichard
 GRB 250430A,SWIFT-BAT,2025-04-30<br>17:31:21 UTC,233.4281 deg<br> (15h33m42.744s),-18.0833 deg<br> (-18d04'59.88''),2025-04-30<br>19:35:50 UTC (T0 + 2.08h),2025-05-02<br>02:59:00 UTC (multiple nights),Pointed,Manual, Pierre Pichard
