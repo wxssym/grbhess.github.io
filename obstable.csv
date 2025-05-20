@@ -1,10 +1,10 @@
-1315630,SWIFT-BAT,2025-05-20<br>02:42:16 UTC,282.2681 deg<br> (18h49m04.344s),-11.8468 deg<br> (-11d50'48.48''),2025-05-20<br>21:42:13 UTC (T0 + 19.0h),2025-05-20<br>23:08:04 UTC (T0 + 20.43h),Pointed,Manual,
+GRB 250520A,SWIFT-BAT,2025-05-20<br>02:42:16 UTC,282.2681 deg<br> (18h49m04.344s),-11.8468 deg<br> (-11d50'48.48''), Cancelled (short observation time), ,Pointed,Manual, Ilja Jaroschewski
 GRB 250506A,Fermi-GBM,2025-05-06<br>02:23:22 UTC,244.76 deg<br> (16h19m02.4s),26.64 deg<br> (+26d38'24''),Cancelled (small visibility window + small zenith angle),,Pointed,Automatic, Pierre Pichard
 GRB 250504A,SWIFT-BAT,2025-05-04<br>23:25:57 UTC,269.6123 deg<br> (17h58m26.952s),-40.3494 deg<br> (-40d20'57.84''),2025-05-04<br>23:26:30 UTC (T0 + 0.01h),2025-05-05<br>04:06:28 UTC (T0 + 4.67h),Pointed,Automatic, Pierre Pichard
 GRB 250502A,SVOM-ECLAIR,2025-05-02<br>08:46:27 UTC,206.479 deg<br> (13h45m54.84s),-10.643 deg<br> (-10d38'34.49''),2025-05-02<br>17:57:55 UTC (T0 + 9.18h),2025-05-03<br>01:16:00 UTC (7.31h),Pointed,Manual, Pierre Pichard
 GRB 250430A,SWIFT-BAT,2025-04-30<br>17:31:21 UTC,233.4281 deg<br> (15h33m42.744s),-18.0833 deg<br> (-18d04'59.88''),2025-04-30<br>19:35:50 UTC (T0 + 2.08h),2025-05-02<br>02:59:00 UTC (multiple nights),Pointed,Manual, Pierre Pichard
 GRB 250424A, SWIFT-BAT,2025-04-24<br>06:52:28 UTC,217.5135 deg<br> (14h30m03.24s),-35.0222 deg<br> (-35d01'19.92''),2025-04-24<br>19:08:47 UTC (T0 + 12.2h),2025-04-26<br>03:30:00 UTC (multiple nights),Pointed,Manual, Bernardo Cornejo
-GRB 250421A, Fermi-GBM, 2025-04-21<br>10:38:31 UTC,238.6 deg<br> (15h54m24s),-60.81 deg<br> (-60d48'36''), Cancelled (Unc. are too big),, Tiled,Manual, Bernardo Cornejo
+GRB 250421A, Fermi-GBM, 2025-04-21<br>10:38:31 UTC,238.6 deg<br> (15h54m24s),-60.81 deg<br> (-60d48'36''), Cancelled (Unc. area too big),, Tiled,Manual, Bernardo Cornejo
 GRB 250419A, SVOM, 2025-04-19<br>02:29:32 UTC, 202.387 deg<br> (13h29m32.98s), 7.086  deg<br> (7d5m9.96s), Cancelled (Bad weather),, Pointed, Manual, Bernardo Cornejo
 GRB 250403A, SVOM, 2025-04-03<br>15:15:20 UTC, 194.593 deg<br> (12h58m22.25s), -24.376  deg<br> (-24d22m34.32s), Cancelled (Bad weather),, Pointed, Manual, Ilja Jaroschewski
 GRB 250328A,SVOM-ECLAIR,2025-03-28<br>16:56:56 UTC, 215.9771 deg<br> (14h23m54.51s),25.8825 deg<br> (25d52'56.83''), Cancelled (Bad weather),,Pointed,Manual,Bernardo Cornejo
@@ -20,7 +20,7 @@ GRB 250129A,SWIFT-BAT,2025-01-29<br>04:45:09 UTC,198.6894 deg<br> (13h14m45.456s
 GRB 250128B,SWIFT-BAT,2025-01-28<br>16:22:53 UTC,231.4198 deg<br> (15h25m40.752s),-0.5171 deg<br> (-00d31'01.56''),Cancelled (Bad weather),,Pointed,Manual, Santiago Pita
 GRB 250127B,Fermi-GBM,2025-01-27<br>15:14:38 UTC,126.85 deg<br> (08h27m24s),-14.17 deg<br> (-14d10'12''),Cancelled (preference for GRB 250127A),,Tiled,Manual, Santiago Pita
 GRB 250127A,SVOM,2025-01-27<br>05:04:46 UTC,169.59 deg<br>(11h18m21.36s),3.35 deg<br> 3d20m45.6s,Cancelled (Bad weather),,Pointed,Manual, Santiago Pita
-GRB 250108B,SWIFT-BAT,2025-01-08<br>10:23:06 UTC,201.2974 deg<br> (13h25m11.376s),25.6127 deg<br> (+25d36'45.72''),Cancelled(short observation time),,Pointed,Manual,Bernardo Cornejo
+GRB 250108B,SWIFT-BAT,2025-01-08<br>10:23:06 UTC,201.2974 deg<br> (13h25m11.376s),25.6127 deg<br> (+25d36'45.72''),Cancelled (short observation time),,Pointed,Manual,Bernardo Cornejo
 GRB 250103B,SWIFT-BAT,2025-01-03<br>15:44:17 UTC,54.6515 deg<br> (03h38m36.36s),-33.7719 deg<br> (-33d46'18.84''),Cancelled (Bad weather),,Pointed,Manual,Bernardo Cornejo
 GRB 250101A,SWIFT-BAT,2025-01-01<br>13:22:50 UTC,37.0612 deg<br> (02h28m14.688s),19.154 deg<br> (+19d09'14.4''),2025-01-01<br>19:08:56 UTC (T0 + 5.65h),2025-01-01<br>21:07:12 UTC (T0 + 8.05h),Pointed,Manual,Bernardo Cornejo
 GRB 241228B,Fermi-GBM, 2024-12-28<br>04:13:05 UTC, 127.77 deg<br> (08h31m02s), 6.85 deg<br> (+6d50'54.07''), 2024-12-28<br>23:01:00 UTC (T0 + 18.8h), 2024-12-29<br>00:57:00 UTC (T0 + 20.7h),Pointed,Manual,Halim Ashkar
