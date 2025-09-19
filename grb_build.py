@@ -11,7 +11,7 @@ from bokeh.layouts import row, column
 from bokeh.models import ColumnDataSource, HoverTool
 
 # ---------- config ----------
-CSV_PATH = os.environ.get("OBS_CSV", "Observable.csv")         # repo root
+CSV_PATH = os.environ.get("OBS_CSV", "obstable.csv")         # repo root
 DONUT_HTML = os.environ.get("DONUT_HTML", "donut.html")         # repo root
 MAP_HTML   = os.environ.get("MAP_HTML",   "map.html")           # repo root
 
