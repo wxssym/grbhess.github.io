@@ -1,0 +1,53 @@
+name: Build GRB HTML
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to push HTML back
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas mysqlclient bokeh numpy
+
+      - name: Run builder
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASS: ${{ secrets.DB_PASS }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          # Optional overrides:
+          # OBS_CSV: Observable.csv
+          # DONUT_HTML: donut.html
+          # MAP_HTML: map.html
+        run: |
+          python grb_build.py
+
+      - name: Commit HTML outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add donut.html map.html || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Update generated HTML"
+            git push
+          else
+            echo "No changes to commit"
+          fi
